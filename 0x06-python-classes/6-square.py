@@ -33,7 +33,7 @@ class Square:
         """Get/set the current position of the square."""
         return (self.__position)
 
-        @position.setter
+    @position.setter
     def position(self, value):
         if (not isinstance(value, tuple) or
                 len(value) != 2 or
