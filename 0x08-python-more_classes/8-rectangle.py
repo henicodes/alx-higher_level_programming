@@ -15,7 +15,7 @@ class Rectangle:
         type(self).number_of_instances += 1
 
     @property
-     def width(self):
+    def width(self):
          """width
          """
          return self.__width
