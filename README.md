@@ -13,3 +13,4 @@ In these repo the following concepts are covered:-
 - [0x09-python-everything_is_object](https://github.com/henicodes/alx-higher_level_programming/tree/master/0x09-python-everything_is_object)
 - [0x0A-python-inheritance](https://github.com/henicodes/alx-higher_level_programming/tree/master/0x0A-python-inheritance)
 - [0x0B-python-input_output](https://github.com/henicodes/alx-higher_level_programming/tree/master/0x0B-python-input_output)
+- [0x0C-python-almost_a_circle](https://github.com/henicodes/alx-higher_level_programming/tree/master/0x0C-python-almost_a_circle)
