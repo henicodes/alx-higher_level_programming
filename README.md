@@ -1,5 +1,5 @@
 ## HIGHER LEVEL PROGRAMMING - Python Programming Language
-This repository contains programs written for the HIGHER LEVEL PROGRAMMING - Python Programming Language Concepts of software Engineering Program.
+This repository contains program,exercises and tasks written for the HIGHER LEVEL PROGRAMMING COURSE FOR ALX SE PROGRAM - Python Programming Language Concepts of software Engineering Program.
 In these repo the following concepts are covered:-
 - [0x00-python-hello_world](https://github.com/henicodes/alx-higher_level_programming/tree/master/0x00-python-hello_world)
 - [0x01-python-if_else_loops_functions](https://github.com/henicodes/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions)
